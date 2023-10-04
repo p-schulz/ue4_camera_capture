@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CameraCaptureToDisk.cpp.obj": [
+			"CameraCaptureManager.cpp.obj",
+			"CameraCaptureToDisk.cpp.obj"
+		],
+		"Module.CameraCaptureToDisk.gen.cpp.obj": [
+			"CameraCaptureManager.gen.cpp.obj",
+			"CameraCaptureToDisk.init.gen.cpp.obj"
+		]
+	}
+}

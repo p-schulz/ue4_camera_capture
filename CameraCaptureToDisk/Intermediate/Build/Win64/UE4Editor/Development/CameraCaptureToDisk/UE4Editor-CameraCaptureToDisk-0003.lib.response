@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CameraCaptureToDisk-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\schulz\Documents\Unreal Projects\FZIsim\Intermediate\Build\Win64\FZIsimEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\schulz\Documents\Unreal Projects\FZIsim\Plugins\CameraCaptureToDisk\Intermediate\Build\Win64\UE4Editor\Development\CameraCaptureToDisk\Module.CameraCaptureToDisk.cpp.obj"
+"C:\Users\schulz\Documents\Unreal Projects\FZIsim\Plugins\CameraCaptureToDisk\Intermediate\Build\Win64\UE4Editor\Development\CameraCaptureToDisk\Module.CameraCaptureToDisk.gen.cpp.obj"
+"C:\Users\schulz\Documents\Unreal Projects\FZIsim\Plugins\CameraCaptureToDisk\Intermediate\Build\Win64\UE4Editor\Development\CameraCaptureToDisk\Default.rc2.res"
+/OUT:"C:\Users\schulz\Documents\Unreal Projects\FZIsim\Plugins\CameraCaptureToDisk\Intermediate\Build\Win64\UE4Editor\Development\CameraCaptureToDisk\UE4Editor-CameraCaptureToDisk-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_CameraCaptureToDisk

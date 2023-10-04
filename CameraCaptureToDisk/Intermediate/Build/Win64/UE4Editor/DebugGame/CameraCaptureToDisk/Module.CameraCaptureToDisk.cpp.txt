@@ -1,0 +1,32 @@
+C:\Users\schulz\Documents\Unreal Projects\FZIsim\Plugins\CameraCaptureToDisk\Intermediate\Build\Win64\UE4Editor\DebugGame\CameraCaptureToDisk\Definitions.CameraCaptureToDisk.h
+C:/Users/schulz/Documents/Unreal Projects/FZIsim/Plugins/CameraCaptureToDisk/Source/CameraCaptureToDisk/Private/CameraCaptureManager.cpp
+C:\Users\schulz\Documents\Unreal Projects\FZIsim\Plugins\CameraCaptureToDisk\Source\CameraCaptureToDisk\Public\CameraCaptureManager.h
+C:\Users\schulz\Documents\Unreal Projects\FZIsim\Plugins\CameraCaptureToDisk\Intermediate\Build\Win64\UE4Editor\Inc\CameraCaptureToDisk\CameraCaptureManager.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture2D.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/SceneCapture.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCapture.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCapture2D.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent2D.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SceneCaptureComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneCaptureComponent2D.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\ImageWrapper/Public/IImageWrapper.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\ImageWrapper/Public/IImageWrapperModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+C:/Users/schulz/Documents/Unreal Projects/FZIsim/Plugins/CameraCaptureToDisk/Source/CameraCaptureToDisk/Private/CameraCaptureToDisk.cpp
+C:\Users\schulz\Documents\Unreal Projects\FZIsim\Plugins\CameraCaptureToDisk\Source\CameraCaptureToDisk\Public\CameraCaptureToDisk.h
